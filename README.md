@@ -17,3 +17,5 @@ p6.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Sc
 p7.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-19%20232243.png
 
 p8.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-19%20232601.png
+
+p9.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-19%20232858.png
