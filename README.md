@@ -5,3 +5,5 @@ ListInterfaceDemo.java o/p link : https://github.com/gchaithranayak/Advanced-jav
 p1.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-19%20225631.png
 
 p2.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-19%20230104.png
+
+p3.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-19%20230502.png
