@@ -1,3 +1,5 @@
+/*Write a Java program to display elements and their positions in a linked list ( using
+l_listobj.get(p) )*/
 package basic;
 import java.util.*;
 
