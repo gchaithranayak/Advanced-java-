@@ -1,3 +1,5 @@
+/*Write a Java program to iterate through all elements in a linked list starting at the
+specified position ( 2 nd ) using iterator*/
 package basic;
 import java.util.*;
 public class p6 {
