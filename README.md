@@ -31,3 +31,5 @@ PerformanceTest.java o/p link : https://github.com/gchaithranayak/Advanced-java-
 StringHandling.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-20%20233051.png
 
 StringBuildingFunctiion1.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-20%20233529.png
+
+StringBuildingFunction2.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-20%20234127.png
