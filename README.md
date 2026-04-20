@@ -41,3 +41,5 @@ ButtonExamle.java o/p link : https://github.com/gchaithranayak/Advanced-java-/bl
 ClockGlassDemo.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-21%20000258.png
 
 JListExample.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-21%20001704.png
+
+TabbedPaneExample.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-21%20002116.png
