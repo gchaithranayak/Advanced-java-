@@ -51,3 +51,5 @@ TabbedColorPane.java o/p link : https://github.com/gchaithranayak/Advanced-java-
 FactorialServlet.java o/p link : https://github.com/user-attachments/assets/53bbf384-0844-4e5f-88a0-f2f32a268076
 
 CookieServlet.java o/p link : https://github.com/user-attachments/assets/7b1328c8-9356-4e06-8994-13c5bc807dd2
+
+PrimeServlet.java o/p link : https://github.com/user-attachments/assets/c422ce42-8477-44a0-a446-c3445b97de91
