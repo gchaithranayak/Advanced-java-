@@ -44,6 +44,6 @@ JListExample.java o/p link : https://github.com/gchaithranayak/Advanced-java-/bl
 
 TabbedPaneExample.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main-%E2%86%92-master/TabbedPaneExample.png
 
-CountryCapitalList.java o/p link : 
+CountryCapitalList.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main-%E2%86%92-master/CountryCapitalList.png
 
 TabbedColorPane.java o/p link : 
