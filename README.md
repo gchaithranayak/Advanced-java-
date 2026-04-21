@@ -10,7 +10,7 @@ p3.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main-%E
 
 p4.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main-%E2%86%92-master/p4.png
 
-p5.java o/p link : 
+p5.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main-%E2%86%92-master/p5.png
 
 p6.java o/p link : 
 
