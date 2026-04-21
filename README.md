@@ -20,7 +20,7 @@ p8.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main-%E
 
 p9.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main-%E2%86%92-master/p9.png
 
-p10.java o/p link :
+p10.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main-%E2%86%92-master/p10.png
 
 StringHandlingDemo.java o/p link : 
 
