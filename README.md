@@ -4,7 +4,7 @@ ListInterfaceDemo.java o/p link : https://github.com/gchaithranayak/Advanced-jav
 
 p1.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main-%E2%86%92-master/p1.png
 
-p2.java o/p link : 
+p2.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main-%E2%86%92-master/p2.png
 
 p3.java o/p link : 
 
