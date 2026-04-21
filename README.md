@@ -1,49 +1,49 @@
 # Advanced-java-
 java exercises
-ListInterfaceDemo.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-19%20205153.png
+ListInterfaceDemo.java o/p link :
 
-p1.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-19%20225631.png
+p1.java o/p link : 
 
-p2.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-19%20230104.png
+p2.java o/p link : 
 
-p3.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-19%20230502.png
+p3.java o/p link : 
 
-p4.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-19%20230940.png
+p4.java o/p link : 
 
-p5.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-19%20231305.png
+p5.java o/p link : 
 
-p6.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-19%20231812.png
+p6.java o/p link : 
 
-p7.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-19%20232243.png
+p7.java o/p link : 
 
-p8.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-19%20232601.png
+p8.java o/p link : 
 
-p9.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-19%20232858.png
+p9.java o/p link : 
 
-p10.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-19%20233338.png
+p10.java o/p link :
 
-StringHandlingDemo.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-19%20235103.png
-
-
-PerformanceTest.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-20%20001034.png
+StringHandlingDemo.java o/p link : 
 
 
-StringHandling.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-20%20233051.png
+PerformanceTest.java o/p link : 
 
-StringBuildingFunctiion1.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-20%20233529.png
 
-StringBuildingFunction2.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-20%20234127.png
+StringHandling.java o/p link :
 
-SwingExample.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-20%20235610.png
+StringBuildingFunctiion1.java o/p link : 
 
-ButtonExamle.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-20%20235842.png
+StringBuildingFunction2.java o/p link : 
 
-ClockGlassDemo.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-21%20000258.png
+SwingExample.java o/p link :
 
-JListExample.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-21%20001704.png
+ButtonExamle.java o/p link : 
 
-TabbedPaneExample.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-21%20002116.png
+ClockGlassDemo.java o/p link : 
 
-CountryCapitalList.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-21%20002554.png
+JListExample.java o/p link : 
 
-TabbedColorPane.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main/Screenshot%202026-04-21%20003809.png
+TabbedPaneExample.java o/p link : 
+
+CountryCapitalList.java o/p link : 
+
+TabbedColorPane.java o/p link : 
