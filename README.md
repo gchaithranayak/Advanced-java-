@@ -67,3 +67,5 @@ Session Management o/p link : https://github.com/user-attachments/assets/f56c29b
 SessionTrackingServlet.java o/p link : https://github.com/user-attachments/assets/09afb946-ea7f-4faf-85da-3b391e9ae881
 
 Session Management o/p link : https://github.com/user-attachments/assets/2f6bc243-af34-4843-95f6-05b2da048817
+
+UserDataServlet.java o/p link : https://github.com/user-attachments/assets/9428f99b-1b0d-4abc-a325-f7f6041a17d1
