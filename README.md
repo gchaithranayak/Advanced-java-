@@ -36,7 +36,7 @@ StringBuildingFunction2.java o/p link : https://github.com/gchaithranayak/Advanc
 
 SwingExample.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main-%E2%86%92-master/SwingExample.png
 
-ButtonExamle.java o/p link : 
+ButtonExamle.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main-%E2%86%92-master/ButtonExample.png
 
 ClockGlassDemo.java o/p link : 
 
