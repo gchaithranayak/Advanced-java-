@@ -8,7 +8,7 @@ p2.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main-%E
 
 p3.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main-%E2%86%92-master/p3.png
 
-p4.java o/p link : 
+p4.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main-%E2%86%92-master/p4.png
 
 p5.java o/p link : 
 
