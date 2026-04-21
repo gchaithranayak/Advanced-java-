@@ -42,7 +42,7 @@ ClockGlassDemo.java o/p link : https://github.com/gchaithranayak/Advanced-java-/
 
 JListExample.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main-%E2%86%92-master/JListExample.png
 
-TabbedPaneExample.java o/p link : 
+TabbedPaneExample.java o/p link : https://github.com/gchaithranayak/Advanced-java-/blob/main-%E2%86%92-master/TabbedPaneExample.png
 
 CountryCapitalList.java o/p link : 
 
