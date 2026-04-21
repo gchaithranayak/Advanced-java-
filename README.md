@@ -1,6 +1,6 @@
 # Advanced-java-
 java exercises
-ListInterfaceDemo.java o/p link :
+ListInterfaceDemo.java o/p link :https://github.com/gchaithranayak/Advanced-java-/blob/main-%E2%86%92-master/ListInterfaceDemo.png
 
 p1.java o/p link : 
 
